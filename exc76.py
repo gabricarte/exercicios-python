@@ -10,3 +10,4 @@ for posic in range(0, len(produtos)):
         print(f'{produtos[posic]:.<30}', end=' ')
     else:
         print(f'R$ {produtos[posic]:>7.2f}')
+    
