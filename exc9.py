@@ -10,4 +10,3 @@ print('{} x {} = {}'.format(num, 7, num*7))
 print('{} x {} = {}'.format(num, 8, num*8))
 print('{} x {} = {}'.format(num, 9, num*9))
 print('{} x {} = {}'.format(num, 10, num*10))
-5
